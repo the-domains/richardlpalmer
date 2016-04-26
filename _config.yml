@@ -1,0 +1,28 @@
+name: RichardLPalmer
+favicon: null
+layout_spectrum: 0.02868280909024179
+typography_spectrum: 0.11529986979439855
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7841375702992082
+  lightness: 0.9661345614586025
+  saturation: 0.4582768683321774
+  rhythmicContrast: 0.8236375264823437
+purpose: []
